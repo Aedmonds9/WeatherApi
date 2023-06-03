@@ -1,0 +1,16 @@
+C:\Users\brode\repos\APIexercise\APIexercise\bin\Debug\netcoreapp3.1\APIexercise.exe
+C:\Users\brode\repos\APIexercise\APIexercise\bin\Debug\netcoreapp3.1\APIexercise.deps.json
+C:\Users\brode\repos\APIexercise\APIexercise\bin\Debug\netcoreapp3.1\APIexercise.runtimeconfig.json
+C:\Users\brode\repos\APIexercise\APIexercise\bin\Debug\netcoreapp3.1\APIexercise.runtimeconfig.dev.json
+C:\Users\brode\repos\APIexercise\APIexercise\bin\Debug\netcoreapp3.1\APIexercise.dll
+C:\Users\brode\repos\APIexercise\APIexercise\bin\Debug\netcoreapp3.1\APIexercise.pdb
+C:\Users\brode\repos\APIexercise\APIexercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.csproj.AssemblyReference.cache
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.AssemblyInfoInputs.cache
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.AssemblyInfo.cs
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.csproj.CoreCompileInputs.cache
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.csproj.CopyComplete
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.dll
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.pdb
+C:\Users\brode\repos\APIexercise\APIexercise\obj\Debug\netcoreapp3.1\APIexercise.genruntimeconfig.cache
